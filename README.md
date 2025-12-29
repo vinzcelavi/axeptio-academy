@@ -14,16 +14,16 @@
 
 /* Flex width sizing - relative */
 .flex-1 { flex: 1 1 0%; }
-.w-1\/2 { flex: 0 0 50%; width: 50%; }
-.w-1\/3 { flex: 0 0 33%; width: 33%; }
-.w-full { flex: 0 0 100%; width: 100%; }
+.w-1\/2 { flex: 0 0 45%; max-width: 45%; }
+.w-1\/3 { flex: 0 0 30%; max-width: 30%; }
+.w-full { flex: 0 0 100%; max-width: 100%; }
 
 /* Flex width sizing - fixed */
-.w-80 { flex: 0 0 80px; width: 80px; }
-.w-120 { flex: 0 0 120px; width: 120px; }
-.w-160 { flex: 0 0 160px; width: 160px; }
-.w-200 { flex: 0 0 200px; width: 200px; }
-.w-300 { flex: 0 0 300px; width: 300px; }
+.w-80 { flex: 0 0 80px; max-width: 80px; }
+.w-120 { flex: 0 0 120px; max-width: 120px; }
+.w-160 { flex: 0 0 160px; max-width: 160px; }
+.w-200 { flex: 0 0 200px; max-width: 200px; }
+.w-300 { flex: 0 0 300px; max-width: 300px; }
 
 /* Text */
 .text-center { text-align: center; }
@@ -43,7 +43,7 @@
 @media (max-width: 500px) {
   .sm\:w-full { 
     flex: 1 1 100%; 
-    width: 100%; 
+    max-width: 100%; 
   }
   .sm\:flex-col-reverse { 
     flex-direction: column-reverse; 
