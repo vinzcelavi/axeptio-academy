@@ -48,6 +48,9 @@
   .sm\:flex-col-reverse { 
     flex-direction: column-reverse; 
   }
+  .sm\:order-first { 
+    order: -1; 
+  }
 }
 ```
 
