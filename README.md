@@ -38,6 +38,17 @@
 .mb-6 { margin-bottom: 1.5rem; }
 .p-2 { padding: 0.5rem; }
 .p-4 { padding: 1rem; }
+
+/* Mobile */
+@media (max-width: 500px) {
+  .sm\:w-full { 
+    flex: 1 1 100%; 
+    width: 100%; 
+  }
+  .sm\:flex-col-reverse { 
+    flex-direction: column-reverse; 
+  }
+}
 ```
 
 ## Helpers “utility-first” XBlock (façon Tailwind)
