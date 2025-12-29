@@ -14,16 +14,16 @@
 
 /* Flex width sizing - relative */
 .flex-1 { flex: 1 1 0%; }
-.w-1\/2 { width: 50%; }
-.w-1\/3 { width: 33%; }
-.w-full { width: 100%; }
+.w-1\/2 { flex: 0 0 50%; width: 50%; }
+.w-1\/3 { flex: 0 0 33%; width: 33%; }
+.w-full { flex: 0 0 100%; width: 100%; }
 
 /* Flex width sizing - fixed */
-.w-80 { width: 80px; }
-.w-120 { width: 120px; }
-.w-160 { width: 160px; }
-.w-200 { width: 200px; }
-.w-300 { width: 300px; }
+.w-80 { flex: 0 0 80px; width: 80px; }
+.w-120 { flex: 0 0 120px; width: 120px; }
+.w-160 { flex: 0 0 160px; width: 160px; }
+.w-200 { flex: 0 0 200px; width: 200px; }
+.w-300 { flex: 0 0 300px; width: 300px; }
 
 /* Text */
 .text-center { text-align: center; }
