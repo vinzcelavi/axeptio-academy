@@ -25,6 +25,7 @@
 .w-200 { flex: 0 0 200px; max-width: 200px; }
 .w-300 { flex: 0 0 300px; max-width: 300px; }
 .w-400 { flex: 0 0 400px; max-width: 400px; }
+.w-420 { flex: 0 0 420px; max-width: 420px; }
 
 /* Text */
 .text-center { text-align: center; }
