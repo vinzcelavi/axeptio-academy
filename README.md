@@ -9,8 +9,12 @@
 .gap-6 { gap: 1.5rem; }
 
 /* Justify / Align */
+.justify-start { justify-content: flex-start; }
 .justify-center { justify-content: center; }
+.justify-end { justify-content: flex-end; }
+.items-start { align-items: flex-start; }
 .items-center { align-items: center; }
+.items-end { align-items: flex-end; }
 
 /* Flex width sizing - relative */
 .flex-1 { flex: 1 1 0%; }
