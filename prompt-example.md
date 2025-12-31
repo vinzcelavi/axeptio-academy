@@ -1,6 +1,6 @@
 # Exemple de prompt à donner à Claude ou à ChatGPT (ou n'importe quel LLM) pour refaire le HTML correctement
 
-```html
+```console
 Voici mon mini-framework css :
 {Ici on met le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-academy)}
 
