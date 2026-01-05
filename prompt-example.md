@@ -9,7 +9,7 @@ Voici mon code HTML actuel :
 
 Et le résultat que j'aimerais doit correspondre à [image jointe ou explication : "2 colonnes, avec la colonne de gauche qui fait 120px de large"].
 
-/!\ Attention, les classes CSS ne doivent pas embarquer le caractère "\" (c'est seulement utile dans le CSS).
+⚠ Attention, les classes CSS ne doivent pas embarquer le caractère "\" (c'est seulement utile dans le CSS).
 
 Peux-tu me refaire le HTML proprement, sans <table />, avec mon mini-framework ?
 ```
