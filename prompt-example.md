@@ -11,7 +11,7 @@ Et le résultat que j'aimerais doit correspondre à [image jointe ou explication
 
 /!\ Attention, les classes CSS ne doivent pas embarquer le caractère "\" (c'est seulement utile dans le CSS).
 
-Peux-tu me refaire le HTML proprement avec mon mini-framework ?
+Peux-tu me refaire le HTML proprement, sans <table />, avec mon mini-framework ?
 ```
 </div>
 
