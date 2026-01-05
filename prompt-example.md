@@ -3,7 +3,7 @@
 ```console
 Voici mon mini-framework css :
 ```
-_{Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici mon code HMLT actuel :_
+_Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici) mon code HMLT actuel :_
 
 ```console
 <div style="max-width: 800px; margin: 0 auto;"><!-- Titre -->
