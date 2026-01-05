@@ -30,6 +30,7 @@
 .w-300 { flex: 0 0 300px; max-width: 300px; }
 .w-400 { flex: 0 0 400px; max-width: 400px; }
 .w-420 { flex: 0 0 420px; max-width: 420px; }
+.w-500 { flex: 0 0 500px; max-width: 500px; }
 
 /* Text */
 .text-center { text-align: center; }
