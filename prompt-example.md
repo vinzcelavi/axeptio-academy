@@ -2,9 +2,10 @@
 
 ```console
 Voici mon mini-framework css :
-{Ici on met le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-academy)}
+```
+_{Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici mon code HMLT actuel :_
 
-Voici mon code HMLT actuel :
+```console
 <div style="max-width: 800px; margin: 0 auto;"><!-- Titre -->
 <h2 style="text-align: center; font-size: 20px; margin-bottom: 25px;"><b>À propos des plugins, connecteurs et écosystème</b></h2>
 <!-- Bloc 1 : Plugins CMS -->
@@ -56,7 +57,7 @@ Voici mon code HMLT actuel :
 </tbody>
 </table>
 
-Et le résultat que j'aimerais c'est ça (image jointe).
+Et le résultat que j'aimerais c'est ça [image jointe ou explication, exemple : 2 colonnes, avec la colonne de gauche qui fait 120px de large].
 Peux-tu me refaire le HTML sans <table /> avec mes classes CSS ?
 ```
 </div>
