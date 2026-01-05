@@ -100,7 +100,7 @@
 # Nouveau HTML
 ```html
 <style>
-  /* Layout */
+/* Layout */
 .flex { display: flex; }
 .flex-wrap { flex-wrap: wrap; }
 .flex-col { flex-direction: column; }
