@@ -26,6 +26,7 @@
 .w-80 { flex: 0 0 80px; max-width: 80px; }
 .w-120 { flex: 0 0 120px; max-width: 120px; }
 .w-160 { flex: 0 0 160px; max-width: 160px; }
+.w-180 { flex: 0 0 180px; max-width: 180px; }
 .w-200 { flex: 0 0 200px; max-width: 200px; }
 .w-300 { flex: 0 0 300px; max-width: 300px; }
 .w-400 { flex: 0 0 400px; max-width: 400px; }
