@@ -3,9 +3,10 @@
 ```console
 Voici mon mini-framework css :
 ```
-_Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici) mon code HTML actuel :_
+_Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici)_
 
 ```console
+Voici mon code HTML actuel :
 <div style="max-width: 800px; margin: 0 auto;"><!-- Titre -->
 <h2 style="text-align: center; font-size: 20px; margin-bottom: 25px;"><b>À propos des plugins, connecteurs et écosystème</b></h2>
 <!-- Bloc 1 : Plugins CMS -->
