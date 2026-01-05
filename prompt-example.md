@@ -2,13 +2,13 @@
 
 ```console
 Voici mon mini-framework css :
-_Ici on colle le CSS qui est dispo sur le fichier [README.md](https://github.com/vinzcelavi/axeptio-acadeoici)_
+[Ici on colle le CSS disponible sur README.md]
 
 Voici mon code HTML actuel :
-_[Exemple d'ancien HTML](https://github.com/vinzcelavi/axeptio-academy/blob/main/le-registre-des-consentements.md#ancien-html)_
+[Ici on colle le code HTML (avec <table />) du module à modifier]
 
-Et le résultat que j'aimerais c'est ça [image jointe ou explication, exemple : 2 colonnes, avec la colonne de gauche qui fait 120px de large].
-Peux-tu me refaire le HTML sans <table /> avec mes classes CSS ?
+Et le résultat que j'aimerais doit correspondre à [image jointe ou explication : "2 colonnes, avec la colonne de gauche qui fait 120px de large"].
+Peux-tu me refaire le HTML proprement avec mon mini-framework ?
 ```
 </div>
 
