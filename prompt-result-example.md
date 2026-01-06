@@ -35,7 +35,7 @@
 </tbody>
 </table>
 </div>
-<p><p></p>
+<p></p>
 ```
 
 ## Nouveau HTML (avec mini-framework CSS)
