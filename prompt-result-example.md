@@ -1,6 +1,6 @@
 ## Ancien HTML
 ```html
-v style="max-width: 800px; margin: 0 auto; font-size: 16px; text-align: justify;"><!-- Titre principal -->
+<div style="max-width: 800px; margin: 0 auto; font-size: 16px; text-align: justify;"><!-- Titre principal -->
 <h2 style="text-align: left; font-size: 20px; margin-bottom: 20px;"><b>How does opt-in work?</b></h2>
 <!-- Bloc mascotte + bulle -->
 <table style="width: 100%; border-collapse: collapse; border: 0; margin-bottom: 30px;">
